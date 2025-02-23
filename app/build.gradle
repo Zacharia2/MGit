@@ -10,8 +10,8 @@ android {
         //noinspection ExpiredTargetSdkVersion
         targetSdk 31
 
-        versionCode 254
-        versionName "1.7.6"
+        versionCode 255
+        versionName "1.7.7"
     }
 
     compileOptions {
